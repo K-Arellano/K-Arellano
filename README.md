@@ -1,0 +1,1 @@
+Hello ! I'm Ken Arellano, an aspiring IT Specialist hailing from the University of Southeastern Philippines.
