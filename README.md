@@ -18,7 +18,7 @@ Let’s code together and build something amazing! 🚀
 - MongoDB 🍃
   
 
-[![Tech GIF](https://media.giphy.com/media/xT0xezQ9xIdkBjpLw0/giphy.gif)](https://www.github.com)
+[![Tech GIF](https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)](https://www.github.com)
 
 ---
 
@@ -27,5 +27,5 @@ Let’s code together and build something amazing! 🚀
 - LinkedIn: [https://www.linkedin.com/in/ken-jerold-arellano-3334b42ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] 🔗  
 - Twitter: [Twitter Handle] 🐦  
 
-[![Contact GIF](https://media.giphy.com/media/8fnzZoa9JkZ1y/giphy.gif)](https://github.com)
+[![Contact GIF](https://media.giphy.com/media/l4FGHAx9kmM7AzwtO/giphy.gif)](https://github.com)
 
