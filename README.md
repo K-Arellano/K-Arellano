@@ -6,7 +6,7 @@ Currently a **Junior Developer** in Poseidon OPC inc. 💼
 I’m always open to learning new programming languages and adding more tools to my tech toolbox! 🔧💻  
 Let’s code together and build something amazing! 🚀
 
-[![Coding GIF](https://media.giphy.com/media/xT0xezQ9xIdkBjpLw0/giphy.gif)](https://github.com)
+[![Coding GIF](https://media.giphy.com/media/YvYy1dtfUzLJm/200.gif)](https://github.com)
 
 ---
 
@@ -15,7 +15,7 @@ Let’s code together and build something amazing! 🚀
 - JavaScript 💻
 - HTML/CSS 🌐
 - SQL 📊
-- MongoDB 📊
+- MongoDB 🍃
   
 
 [![Tech GIF](https://media.giphy.com/media/xT0xezQ9xIdkBjpLw0/giphy.gif)](https://www.github.com)
