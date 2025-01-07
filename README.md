@@ -24,9 +24,9 @@ Let’s code together and build something amazing! 🚀
 
 ### 📫 **How to reach me:**
 
-- [📧](Keanarellano53@gmail.com)
-- [🔗]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ken-jerold-arellano-3334b42ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- [🐦](https://x.com/NoobieSpark)
+- Gmail [📧](Keanarellano53@gmail.com)
+- LinkedIn [🔗]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ken-jerold-arellano-3334b42ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- X [⛌](https://x.com/NoobieSpark)
 
 
 [![Contact GIF](https://media.giphy.com/media/l4FGHAx9kmM7AzwtO/giphy.gif)](https://github.com)
