@@ -2,7 +2,7 @@
 ### 🎉 **Hello! I'm Ken Arellano!** 🎉  
 An aspiring **IT Specialist** 🖥️ and lifelong learner, proudly representing the **University of Southeastern Philippines**! 🎓
 
-Currently on the lookout for a **Junior Developer** position. 💼  
+Currently a **Junior Developer** in Poseidon OPC inc. 💼  
 I’m always open to learning new programming languages and adding more tools to my tech toolbox! 🔧💻  
 Let’s code together and build something amazing! 🚀
 
