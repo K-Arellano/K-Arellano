@@ -1,6 +1,3 @@
-Great! For your GitHub profile README, here's a playful and engaging version of your introduction, with suggestions for GIFs:
-
----
 
 ### 🎉 **Hello! I'm Ken Arellano!** 🎉  
 An aspiring **IT Specialist** 🖥️ and lifelong learner, proudly representing the **University of Southeastern Philippines**! 🎓
@@ -31,6 +28,3 @@ Let’s code together and build something amazing! 🚀
 
 [![Contact GIF](https://media.giphy.com/media/8fnzZoa9JkZ1y/giphy.gif)](https://github.com)
 
----
-
-Would you like more specific suggestions or a different kind of tone for the README? Feel free to tweak the details!
