@@ -15,7 +15,8 @@ Let’s code together and build something amazing! 🚀
 - JavaScript 💻
 - HTML/CSS 🌐
 - SQL 📊
-- [Add your tech stack here!]
+- MongoDB 📊
+  
 
 [![Tech GIF](https://media.giphy.com/media/xT0xezQ9xIdkBjpLw0/giphy.gif)](https://www.github.com)
 
