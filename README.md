@@ -23,8 +23,9 @@ Let’s code together and build something amazing! 🚀
 
 ### 💼 **Services Rendered:**  
 1. **Web Development** 🌐 – Building responsive and user-friendly websites.  
-2. **Animation** 🎥 – Creating engaging visual animations.  
-3. **Graphics Design** 🎨 – Crafting sleek and creative visual assets.  
+2. **Animation** 🎥 – Creating engaging visual animations.
+3. **Computer System Servicing** 🛠️ - Providing troubleshooting, system maintenance, and IT support solutions.
+4. **Graphics Design** 🎨 – Crafting sleek and creative visual assets.  
 
 ---
 
