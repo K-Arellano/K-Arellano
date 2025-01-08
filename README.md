@@ -12,6 +12,7 @@ Let’s code together and build something amazing! 🚀
 
 ### 🔧 **Technologies I’m working with:**  
 - Python 🐍
+- PHP 🐘
 - JavaScript 💻
 - HTML/CSS 🌐
 - SQL 📊
