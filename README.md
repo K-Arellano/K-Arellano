@@ -13,7 +13,9 @@ Let’s code together and build something amazing! 🚀
 - Python 🐍  
 - PHP 🐘  
 - JavaScript 💻  
-- HTML/CSS 🌐  
+- HTML/CSS 🌐
+- React ⚛️
+- React Native 📱
 - SQL 📊  
 - MongoDB 🍃  
 
