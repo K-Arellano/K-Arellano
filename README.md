@@ -22,6 +22,12 @@ Let’s code together and build something amazing! 🚀
 [![Tech GIF](https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)](https://www.github.com)  
 
 ---
+### **Projects I am worked on**
+- Poseidon Freight(https://www.poseidonopc.com/)
+- Poseidon-BPO(https://www.poseidon-opc.com/)
+
+
+---
 
 ### 💼 **Services Rendered:**  
 1. **Web Development** 🌐 – Building responsive and user-friendly websites.  
