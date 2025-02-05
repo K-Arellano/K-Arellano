@@ -1,7 +1,7 @@
 ### 🎉 **Hello! I'm Ken Arellano!** 🎉  
 An aspiring **IT Specialist** 🖥️ and lifelong learner, proudly representing the **University of Southeastern Philippines**! 🎓  
 
-Currently a **Junior Developer** in Poseidon OPC inc. 💼  
+Currently a **Junior Developer** in Poseidon OPC Inc. 💼  
 I’m always open to learning new programming languages and adding more tools to my tech toolbox! 🔧💻  
 Let’s code together and build something amazing! 🚀  
 
@@ -13,26 +13,26 @@ Let’s code together and build something amazing! 🚀
 - Python 🐍  
 - PHP 🐘  
 - JavaScript 💻  
-- HTML/CSS 🌐
-- React ⚛️
-- React Native 📱
+- HTML/CSS 🌐  
+- React ⚛️  
+- React Native 📱  
 - SQL 📊  
 - MongoDB 🍃  
 
 [![Tech GIF](https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)](https://www.github.com)  
 
 ---
-### **Projects I am worked on**
-- Poseidon Freight(https://www.poseidonopc.com/)
-- Poseidon-BPO(https://www.poseidon-opc.com/)
 
+### **Projects I worked on**  
+- [Poseidon Freight](https://www.poseidonopc.com/)  
+- [Poseidon BPO](https://www.poseidon-opc.com/)  
 
 ---
 
 ### 💼 **Services Rendered:**  
 1. **Web Development** 🌐 – Building responsive and user-friendly websites.  
-2. **Animation** 🎥 – Creating engaging visual animations.
-3. **Computer System Servicing** 🛠️ - Providing troubleshooting, system maintenance, and IT support solutions.
+2. **Animation** 🎥 – Creating engaging visual animations.  
+3. **Computer System Servicing** 🛠️ – Providing troubleshooting, system maintenance, and IT support solutions.  
 4. **Graphics Design** 🎨 – Crafting sleek and creative visual assets.  
 
 ---
