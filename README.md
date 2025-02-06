@@ -1,7 +1,7 @@
 ### 🎉 **Hello! I'm Ken Arellano!** 🎉  
 An aspiring **IT Specialist** 🖥️ and lifelong learner, proudly representing the **University of Southeastern Philippines**! 🎓  
 
-Currently a **Junior Developer**  💼  
+Currently a **Web Developer**  💼  
 I’m always open to learning new programming languages and adding more tools to my tech toolbox! 🔧💻  
 Let’s code together and build something amazing! 🚀  
 
