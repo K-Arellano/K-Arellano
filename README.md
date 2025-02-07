@@ -17,15 +17,16 @@ Let’s code together and build something amazing! 🚀
 - React ⚛️  
 - React Native 📱  
 - SQL 📊  
-- MongoDB 🍃  
+- MongoDB 🍃
+- Laravel 🧱
 
 [![Tech GIF](https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)](https://www.github.com)  
 
 ---
 
 ### **Projects I worked on**  
-- [Poseidon Freight](https://www.poseidonopc.com/)  
-- [Poseidon BPO](https://www.poseidon-opc.com/)  
+- [Poseidon Freight](https://www.poseidonopc.com/)  - Back-end and Front-end
+- [Poseidon BPO](https://www.poseidon-opc.com/)  - Back-end and Front-end
 
 ---
 
