@@ -27,6 +27,7 @@ Let’s code together and build something amazing! 🚀
 ### **Projects I worked on**  
 - [Poseidon Freight](https://www.poseidonopc.com/)  - Back-end and Front-end
 - [Poseidon BPO](https://www.poseidon-opc.com/)  - Back-end and Front-end
+- [Valuechainplus v2](https://development.staging-valuechainplus.com/) - Backend, Front-end, UI/UX Design
 
 ---
 
